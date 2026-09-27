@@ -1,0 +1,10 @@
+{
+  "name": "HESTIA",
+  "version": "1.0.0",
+  "channel": "stable",
+  "changelog": [
+    "HESTIA modular Studio package with GitHub installation and independent feature modules.",
+    "Priority arbitration, event-driven registries, generator automation and shared ESP scheduler.",
+    "Native charcoal and violet dashboard, config persistence, and complete client cleanup."
+  ]
+}
